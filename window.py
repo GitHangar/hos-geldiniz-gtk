@@ -1,4 +1,4 @@
-# Bu dosya "GNU/Linux Hoş Geldiniz Uygulaması" programının bir parçasıdır.
+# Bu dosya "GNU/Linux'a Hoş Geldiniz Uygulaması" programının bir parçasıdır.
 
 # Copyright (C) 2021 Alperen İsa Nalbant
 
