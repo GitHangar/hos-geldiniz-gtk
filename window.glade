@@ -408,7 +408,7 @@ daha fazlasını edinebilirsiniz.</property>
               <object class="GtkLabel">
                 <property name="visible">True</property>
                 <property name="can-focus">True</property>
-                <property name="label" translatable="yes">Ayrıca GNU/Linux dağıtımları size &lt;a href="https://www.technopat.net/sosyal/konu/yeni-kullanicilar-icin-tema-ve-ikon-yuekleme.1364921/"&gt;başka temalar yüklemenize&lt;/a&gt; izin verir.</property>
+                <property name="label" translatable="yes">Ayrıca GNU/Linux dağıtımları size başka temalar yüklemenize izin verir.</property>
                 <property name="use-markup">True</property>
               </object>
               <packing>
