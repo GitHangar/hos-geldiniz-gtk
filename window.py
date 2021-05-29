@@ -71,14 +71,17 @@ class MainWindow:
         self.stk_win.set_visible_child_name("bitti")
         self.stk_head.set_visible_child_name("bitti")
 
+    # Öntanımlı düğmesi
     def on_btn_ozellestir_ontanimli_clicked(self, button):
         os.system("gsettings set org.gnome.desktop.interface gtk-theme 'Orchis'")
         os.system("gsettings set org.gnome.desktop.interface icon-theme 'Flat-Remix-Blue-Light'")
 
+    # Açık tema düğmesi    
     def on_btn_ozellestir_acik_clicked(self, button):
         os.system("gsettings set org.gnome.desktop.interface gtk-theme 'Orchis-light'")
         os.system("gsettings set org.gnome.desktop.interface icon-theme 'Flat-Remix-Blue-Light'")
 
+    # Koyu tema düğmesi    
     def on_btn_ozellestir_koyu_clicked(self, button):
         os.system("gsettings set org.gnome.desktop.interface gtk-theme 'Orchis-dark'")
         os.system("gsettings set org.gnome.desktop.interface icon-theme 'Flat-Remix-Blue-Dark'")
