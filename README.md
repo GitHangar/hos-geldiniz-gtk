@@ -9,4 +9,4 @@ git clone https://github.com/Afacanc38/hos-geldiniz-gtk.git
 cd hos-geldiniz-gtk
 python3 main.py
 ```
-Not: Tema değiştirme özelliğini kullanabilmeniz için [Orchis GTK+ temasını](https://www.gnome-look.org/p/1357889/) ve [Flat Remix simgelerini](https://www.gnome-look.org/p/1012430/) sisteme yüklemeniz gerekli.
+Not: Tema değiştirme özelliğini kullanabilmeniz için [Orchis GTK+ temasını](https://www.gnome-look.org/p/1357889/) ve [Flat Remix simgelerini](https://www.gnome-look.org/p/1012430/) sisteme yüklemeniz gerekli. Eğer yüklemek istemiyorsanız [window.py](https://github.com/Afacanc38/hos-geldiniz-gtk/blob/main/window.py) dosyasında özelleştirme sayfasınız bulun ve `gsettings` ile başlayan yerleri kendi temanızın adı ile değiştirin.
